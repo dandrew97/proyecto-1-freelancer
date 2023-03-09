@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f2f6fa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: #0097a7;
+    height: 70px;
+}
+
+.logo { 
+    float: left;
+    padding: 15px;
+    height: ; width: ;
+}
+
+.menu {
+    float: right;
+    margin: 24px;
+    font-size: 20px;
+}
+
+.menu li {
+    display: inline;
+    list-style: none;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.menu a:hover {
+    color: #ffc107;
+    cursor: pointer;
+}
+
+.banner {
+    background-image: url(../pictures/banner.jpg);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.banner h1 {
+    text-align: center;
+    font-size: 80px;
+    padding: 100px 50px;
+    margin-bottom: -80px;
+}
+
+.banner p {
+    text-align: center;
+    padding: 0px 50px 0 0;
+}
+
+.banner h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.banner a {
+display: inline;
+margin-top: 30px;
+width: 148px;
+text-align: center;
+text-decoration: none;
+background-color: #0097a7;
+padding: 15px;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 26px;
+}
+
+.banner a:hover {
+    color: #ffc107;
+    cursor: pointer;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 70px;
+    font-size: 30px;
+}
+
+.servicios {
+    width: auto;
+    margin: auto;
+}
+
+.boton_categorias {
+    width: 200px;
+    height: 200px;
+    background-color: #ffc107;
+    border-radius: 120px;
+    font-size: 15px;
+    margin: 5px;
+    padding: 20px;
+    line-height: 45px;
+    text-align: center;
+    float: left;
+    margin: 30px 100px 0px 100px;
+}
+
+.boton_categorias img {
+    height: 120px;
+    width: 120px;
+}
+
+.boton_categorias:hover {
+    opacity: 0.5;
+}
+
+.boton_categorias a {
+    text-decoration: none;
+    color: white;
+    font-size: 19px;  
+}
+
+.parrafos {
+    width: auto;
+    margin: auto;
+}
+
+.interparr {
+    width: 400px;
+    height: 180px;
+    background-color: rgba(103, 199, 243, 0.161);
+    font-size: 15px;
+    padding: 20px;
+    line-height: 30px;
+    text-align: center;
+    float: left;
+    margin: 10px 15px 0px 15px;
+}
+
+.contac {
+    width: auto;
+    margin: auto;
+}
+
+.contactos {
+    padding: 20px;
+
+}
+.redes p {
+    text-align: center;
+    padding-bottom: 15px;
+    
+}
+
+.redes img {  
+    display: block;
+    margin: auto;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.591);
+    color: white;
+    text-align: center;
+    padding: 30px 100px 30px 100px;
+  }
+
+
+
+
+
+
+
+
